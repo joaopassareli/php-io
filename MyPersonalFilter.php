@@ -1,4 +1,3 @@
-
 <?php
 
 class MyPersonalFilter extends php_user_filter 
